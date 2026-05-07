@@ -1,0 +1,82 @@
+{
+  "rutina": [
+    {
+      "nombre": "Press Militar",
+      "categoria": "tren_superior_grande",
+      "series_objetivo": 3,
+      "rep_min": 8,
+      "rep_max": 10,
+      "peso_actual": 32.5
+    },
+    {
+      "nombre": "Belt Squat",
+      "categoria": "tren_inferior",
+      "series_objetivo": 4,
+      "rep_min": 6,
+      "rep_max": 10,
+      "peso_actual": 160.0
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "2026-05-06 17:55",
+      "ejercicios": [
+        {
+          "nombre": "Press Militar",
+          "categoria": "tren_superior_grande",
+          "series_objetivo": 3,
+          "rep_min": 8,
+          "rep_max": 10,
+          "peso_planificado": 30.0,
+          "series": [
+            {
+              "reps": 10,
+              "peso": 28.0,
+              "rir": 4
+            },
+            {
+              "reps": 9,
+              "peso": 30.0,
+              "rir": 3
+            },
+            {
+              "reps": 9,
+              "peso": 30.0,
+              "rir": 2
+            }
+          ]
+        },
+        {
+          "nombre": "Belt Squat",
+          "categoria": "tren_inferior",
+          "series_objetivo": 4,
+          "rep_min": 6,
+          "rep_max": 10,
+          "peso_planificado": 160.0,
+          "series": [
+            {
+              "reps": 10,
+              "peso": 160.0,
+              "rir": 5
+            },
+            {
+              "reps": 10,
+              "peso": 160.0,
+              "rir": 4
+            },
+            {
+              "reps": 10,
+              "peso": 170.0,
+              "rir": 3
+            },
+            {
+              "reps": 8,
+              "peso": 180.0,
+              "rir": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
